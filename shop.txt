@@ -1,3 +1,0 @@
-shop 1 = Krithika
-shop 2 = Hari Vittal
-shop 3 = lakshmi
